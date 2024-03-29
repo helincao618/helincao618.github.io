@@ -25,8 +25,9 @@
       year: 2018 - 2021
       description:
         - title: Electrical and Computer Engineering
-          - GPA 1.5/1.0 (Top 20%, low is good)
-          - Semantic Scene Completion for RGB-D Scans
+          contents:
+            - GPA 1.5/1.0 (Top 20%, low is good)
+            - Semantic Scene Completion for RGB-D Scans
     - title: Bachelor of Engineering
       institution: Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
       year: 2014 - 2018
