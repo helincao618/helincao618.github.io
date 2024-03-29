@@ -2,37 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Helin (Henry) Cao
+      value: Helin (Henry) Cao (曹贺淋)
     - name: Date of Birth
       value: 18th June 1996
     - name: Languages
-      value: China, English, German
+      value: Chinese (native), English (C1), German (B2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Bonn, Nordrhein-westfalen, Germany
-      year: 10.2022-now
+    - title: Ph.D.
+      institution: University of Bonn, Bonn, Germany
+      year: 2022 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Geometry and Semantics Inference with Vision and LiDAR
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Master
-      institution: Technical Univeristy of Munich, Zurich, Germany
-      year: 10.2018-04.2022
+            - Representation Learning for Scene Completion
+            - Categorical, instance, open-world semantics representation
+            - 3D Perception for Robot Manipulation and Navigation
+    - title: Master of Science
+      institution: Technical Univeristy of Munich (TUM), Munich, Germany
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
-    - title: Bachelor
-      institution: , Switzerland
-      year: 10.2014-06.2018
+        - title: Electrical and Computer Engineering
+          - GPA 1.5/1.0 (Top 20%, low is good)
+          - Semantic Scene Completion for RGB-D Scans
+    - title: Bachelor of Engineering
+      institution: Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
+      year: 2014 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - title: Electrical Engineering and Automation
+          contents:
+            - GPA 3.8/5.0 (Top 30%)
 
 - title: Experience
   type: time_table
