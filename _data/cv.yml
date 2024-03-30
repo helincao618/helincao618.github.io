@@ -7,6 +7,8 @@
       value: 18th June 1996
     - name: Languages
       value: Chinese (native), English (C1), German (B2)
+    - name: Email
+      value: caoh@ais.uni-bonn.de
 
 - title: Education
   type: time_table
@@ -61,3 +63,13 @@
         - Mentored by Prof. Dr. Vahid Salehi
         - Developing navigation and mapping module for AICab robot
         - Developing BLDC Motor test platform
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, C/C++, Shell, LATEX
+    - name: Tools
+      value: PyTorch, ROS, Matlab/Simulink, Slurm, Container, OpenCV, Blender, Git
+    - name: Hardware
+      value:  PAL Robot Tiago++, Jetson Orin Nano, Velodyne LiDAR, Realsense RGB-D camera
