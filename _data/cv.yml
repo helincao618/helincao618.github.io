@@ -64,6 +64,14 @@
         - Developing navigation and mapping module for AICab robot
         - Developing BLDC Motor test platform
 
+- title: Review Services
+  type: time_table
+  contents:
+    - title: Conferences
+      year: 2022 - now
+      description:
+        - IJCAI, ECMR
+
 - title: Skills
   type: map
   contents:
