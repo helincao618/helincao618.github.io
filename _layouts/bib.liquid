@@ -5,7 +5,7 @@
     <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}" width="350px" height="auto">
+          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
@@ -36,7 +36,14 @@
         {% endif %}
       {% endif %}
       <div class="row abbr" style="max-height: 10px; width: 100%; margin-bottom: 20px;">
-        <abbr class="badge" style="width: 100%;" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>       
+        <abbr
+            class="badge"
+            style="width: 100%;"
+            {% if venue_style %}
+              {{ venue_style }}
+            {% endif %}
+            ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
+        >     
       </div>
     </div>
   {% endif %}
