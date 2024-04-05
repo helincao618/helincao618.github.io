@@ -35,7 +35,7 @@
     bibtex_show={true},
     title={SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net},
     author={Cao, Helin and Behnke, Sven},
-    journal={ICRA},
+    journal={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
     year={2024},
     abstract={We introduce SLCF-Net, a novel approach for the Semantic Scene Completion (SSC) task that sequentially fuses LiDAR and camera data. It jointly estimates missing geometry and semantics in a scene from sequences of RGB images and sparse LiDAR measurements. The images are semantically segmented by a pre-trained 2D U-Net and a dense depth prior is estimated from a depth-conditioned pipeline fueled by Depth Anything. To associate the 2D image features with the 3D scene volume, we introduce Gaussian-decay Depth-prior Projection (GDP). This module projects the 2D features into the 3D volume along the line of sight with a Gaussian-decay function, centered around the depth prior. Volumetric semantics is computed by a 3D U-Net. We propagate the hidden 3D U-Net state using the sensor motion and design a novel loss to ensure temporal consistency. We evaluate our approach on the SemanticKITTI dataset and compare it with leading SSC approaches. The SLCF-Net excels in all SSC metrics and shows great temporal consistency.},
     preview={SLCF-Net.gif},
