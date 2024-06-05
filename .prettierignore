@@ -4,3 +4,8 @@ assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
+_config.yml
+_data/cv.yml
+_layouts/about.liquid
+_layouts/bib.liquid
+*news/announcement*2.md
