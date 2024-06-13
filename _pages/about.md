@@ -25,8 +25,9 @@ Before that, I spent three wonderful years during my master program at Technical
 
 My research interests lie in the perception and understanding of 3D environments for robotics. Specifically, I am interested in:
 
-- Representation Learning for Scene Completion;
-- Categorical & Instance & Open-world semantics representation for the 3D environment;
-- Perception for robot manipulation and navigation.
+- Representation Learning on Scene Completion;
+- Uncertainty Study on Scene Completion
+- Generative model for 3D Scene;
+- Embodied Artificial Intelligence.
 
 I am incredibly thankful to my collaborators and mentors, and enjoy exploring new domains through collaborations. If you have questions or would like to work together, feel free to reach out through email!
