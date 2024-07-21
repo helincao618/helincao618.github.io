@@ -15,17 +15,15 @@ Our team NimbRo@Home reached the 4th place in the RoboCup@Home Open Platform Lea
 
 <small>02.2023 - 07.2023</small>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fMhtsJv4SAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- [![Watch the video](https://img.youtube.com/vi/fMhtsJv4SAE/hqdefault.jpg)](https://www.youtube.com/watch?v=fMhtsJv4SAE) -->
-
-
+<div style="text-align: center;">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/fMhtsJv4SAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Other talks
 
 <div class="card mt-3">
-    <div class="p-3" style="padding-left: 30px;">
-        <div class="row">
+    <div class="p-3" style="padding-left: 50px; margin-top: 20px;"> <!-- 增加 margin-top -->
+        <div class="row" style="margin-bottom: 20px;"> <!-- 增加 margin-bottom -->
             <div class="col-sm-12">
                 <h5 class="card-title"><a href="https://cepoca.cn/lectureHall/lectureRoomDetail?liveUid=ff8e2eafbc2a03a39232caac2c44316c" target="_blank" rel="noopener noreferrer">基于LiDAR与视觉序列融合的语义场景补全 (In Chinese)</a></h5>
             </div>
