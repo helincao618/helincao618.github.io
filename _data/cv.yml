@@ -72,13 +72,6 @@
       description:
         - IJCAI, ECMR
 
-- title: Talks
-  type: time_table
-  contents:
-    - title: 基于LiDAR与视觉序列融合的语义场景补全
-      year: 09.07.2024
-      description: 数字寰宇大家讲堂 (https://cepoca.cn/lectureHall/lectureRoomDetail/?liveUid=ff8e2eafbc2a03a39232caac2c44316c)
-
 - title: Skills
   type: map
   contents:
