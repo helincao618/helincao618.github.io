@@ -38,16 +38,16 @@
           contents:
             - GPA 3.8/5.0 (Top 30%)
 
-- title: Experience
+- title: Internship
   type: time_table
   contents:
-    - title: Competitor in RoboCup 2023 Bordeaux
-      institution: NimbRo@Home
-      year: 02.2023 - 07.2023
-      description:
-        - Mentored by Dr. Raphael Memmesheimer
-        - 4-th place among 18 qualified teams in RoboCup@Home - Open Platform League
-        - Developing an Object Segmentation Module and implementing the 'serve breakfast' task
+    # - title: Competitor in RoboCup 2023 Bordeaux
+    #   institution: NimbRo@Home
+    #   year: 02.2023 - 07.2023
+    #   description:
+    #     - Mentored by Dr. Raphael Memmesheimer
+    #     - 4-th place among 18 qualified teams in RoboCup@Home - Open Platform League
+    #     - Developing an Object Segmentation Module and implementing the 'serve breakfast' task
 
     - title: Research Assistant
       institution: Valeo, Remote
