@@ -24,7 +24,7 @@ Our team NimbRo@Home reached the 4th place in the RoboCup@Home Open Platform Lea
 ## Other talks
 
 <div class="card mt-3">
-    <div class="p-3" style="padding-left: 50px; margin-top: 20px;"> <!-- 增加 margin-top -->
+    <div class="p-3" style="padding-left: 50px; margin-top: 10px;"> <!-- 增加 margin-top -->
         <div class="row" style="margin-bottom: 20px;"> <!-- 增加 margin-bottom -->
             <div class="col-sm-12">
                 <h5 class="card-title"><a href="https://cepoca.cn/lectureHall/lectureRoomDetail?liveUid=ff8e2eafbc2a03a39232caac2c44316c" target="_blank" rel="noopener noreferrer">基于LiDAR与视觉序列融合的语义场景补全 (In Chinese)</a></h5>
