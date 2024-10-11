@@ -73,11 +73,28 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Install and Build 🔧
+      #- name: Install and Build 🔧
+      #  run: |
+      #    pip3 install --upgrade jupyter
+      #    export JEKYLL_ENV=production
+      #    bundle exec jekyll build --lsi
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Create and activate virtual environment
         run: |
-          pip3 install --upgrade jupyter
-          export JEKYLL_ENV=production
-          bundle exec jekyll build --lsi
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install jupyter
+
+
+
+          
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
