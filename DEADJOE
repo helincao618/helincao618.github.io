@@ -1,0 +1,14 @@
+
+*** These modified files were found in JOE when it aborted on Fri Oct 11 18:31:42 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/caoh/Documents/icra_2024_sfcnet/.git/MERGE_MSG
+/home/caoh/icra_at40_diffssc/.git/MERGE_MSG
+/home/caoh/helincao618.github.io/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
