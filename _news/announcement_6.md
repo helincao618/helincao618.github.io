@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent work [DiffSSC](https://www.arxiv.org/abs/2409.18092) is available on Arxiv!
+Our recent work [DiffSSC](https://www.arxiv.org/abs/2409.18092) is available on Arxiv.
