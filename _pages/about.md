@@ -6,11 +6,11 @@ permalink: /
 profile:
   align: right
   image: helincao.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>0.040</p>
-    <p>Friedrich-Hirzebruch-Allee 8</p>
-    <p>Bonn, 53115</p>
+  image_circular: false # crops the image to make it circular
+  #more_info: >
+    #<p>0.040</p>
+    #<p>Friedrich-Hirzebruch-Allee 8</p>
+    #<p>Bonn, 53115</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
