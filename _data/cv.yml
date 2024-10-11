@@ -8,7 +8,7 @@
     - name: Languages
       value: Chinese (native), English (C1), German (B2)
     - name: Email
-      value: caoh@ais.uni-bonn.de
+      value: cao@ais.uni-bonn.de
 
 - title: Education
   type: time_table
@@ -62,7 +62,7 @@
     - title: Conferences
       year: 2023 - now
       description:
-        - IJCAI, ECMR
+        - IJCAI, ECMR, ICRA, IROS
 
 - title: Skills
   type: map
