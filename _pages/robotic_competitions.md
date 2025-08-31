@@ -28,7 +28,7 @@ Our team NimbRo@Home won the RoboCup@Home Open Platform League (OPL) competition
 <small>07/2024</small>
 
 <div style="text-align: center;">
-    <iframe width="800" height="450" src="https://youtu.be/i8L4THs2x7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/i8L4THs2x7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;"><br><br>
