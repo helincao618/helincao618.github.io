@@ -3,9 +3,9 @@ layout: about
 title: About
 permalink: /
 
-#profile:
-  #align: right
-  #image: helincao.png
+profile:
+  align: right
+  image: helincao.png
   #image_circular: false # crops the image to make it circular
   #more_info: >
    # <p>0.040</p>
@@ -16,11 +16,6 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<img
-  src="{{ '/assets/img/helincao.png' | relative_url }}"
-  alt="Helin Cao"
-  style="float:right; max-width:220px; height:auto; margin:0 0 .8rem 1.2rem; border:0;"
->
 
 Hi There! I'm Helin Cao (in Chinese: 曹贺淋). You can also call me Henry.
 
