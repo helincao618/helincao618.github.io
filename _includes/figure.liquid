@@ -14,7 +14,7 @@
     {% if site.imagemagick.enabled %}
       <source
         class="responsive-img-srcset"
-        srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}"
+        srcset="{% for i in site.imagemagick.widths -%}{{ img_path | relative_url }}-{{ i }}.webp {{ i }}w{% unless forloop.last %}, {% endunless %}{%- endfor %}"
         {% if include.sizes %}
           sizes="{{include.sizes}}"
         {% else %}

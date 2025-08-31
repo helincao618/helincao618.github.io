@@ -7,10 +7,10 @@ profile:
   align: right
   image: helincao.png
   image_circular: false # crops the image to make it circular
-  #more_info: >
-    #<p>0.040</p>
-    #<p>Friedrich-Hirzebruch-Allee 8</p>
-    #<p>Bonn, 53115</p>
+  more_info: >
+    <p>0.040</p>
+    <p>Friedrich-Hirzebruch-Allee 8</p>
+    <p>Bonn, 53115</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
