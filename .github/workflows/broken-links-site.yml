@@ -28,8 +28,6 @@ jobs:
             {
               "giscus.repo": "${{ github.repository }}",
               "baseurl": "",
-              "imagemagick.enabled": true,
-              "imagemagick.input_formats[+]": ".webp"
             }
 
       - name: Install ImageMagick
