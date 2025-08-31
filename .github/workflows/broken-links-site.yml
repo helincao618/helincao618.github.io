@@ -27,13 +27,23 @@ jobs:
           changes: |
             {
               "giscus.repo": "${{ github.repository }}",
-              "baseurl": ""
+              "baseurl": "",
+              "imagemagick.enabled": true,
+              "imagemagick.input_formats[+]": ".webp"
             }
-      - name: Install and Build 🔧
+
+      - name: Install ImageMagick
         run: |
-          pip3 install --upgrade jupyter
-          export JEKYLL_ENV=production
-          bundle exec jekyll build --lsi
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Build site 🔧
+        env:
+          JEKYLL_ENV: production
+        run: |
+          bundle exec jekyll clean
+          bundle exec jekyll build --lsi --trace
+
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
@@ -44,3 +54,8 @@ jobs:
           fail: true
           # only check local links
           args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          
+      - name: Debug generated responsive images
+        if: ${{ always() }}
+        run: |
+          find _site/assets/img -type f \( -name "*-480.webp" -o -name "*-800.webp" -o -name "*-1400.webp" \) | head -n 40 || true

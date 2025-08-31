@@ -6,7 +6,7 @@ title: Helin (Henry) Cao # the website title (if blank, full name will be used i
 first_name: Helin
 middle_name: (Henry)
 last_name: Cao
-email: caoh@ais.uni-bonn.de
+email: tumcaohelin@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -377,6 +377,7 @@ imagemagick:
     - ".png"
     - ".tiff"
     - ".gif"
+    - ".webp"
   output_formats:
     webp: "-quality 85"
 
