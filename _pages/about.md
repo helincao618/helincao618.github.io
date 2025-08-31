@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi There! I'm Helin Cao (in Chinese: 曹贺淋). You can also call me Henry.
 
-I am a second-year Ph.D. student in the [Center for Robotics at the University of Bonn](https://www.robotics.uni-bonn.de/) and the [Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/), with [Prof. Sven Behnke](https://www.ais.uni-bonn.de/behnke/) of [Autonomous Intelligent Systems group](https://www.ais.uni-bonn.de/). I am lucky to be a part of Team [NimbRo@Home](https://www.ais.uni-bonn.de/nimbro/@Home/), which participated in multiple international competitions.
+I am a final-year Ph.D. student in the [Center for Robotics at the University of Bonn](https://www.robotics.uni-bonn.de/) and the [Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/), with [Prof. Sven Behnke](https://www.ais.uni-bonn.de/behnke/) of [Autonomous Intelligent Systems group](https://www.ais.uni-bonn.de/). I am lucky to be a part of Team [NimbRo@Home](https://www.ais.uni-bonn.de/nimbro/@Home/), which participated in multiple international competitions.
 
 Before that, I spent three wonderful years during my master program at Technical University of Munich, studying Electrical and Computer Engineering. I'm honored to be advised by [Prof. Matthias Niessner](https://niessnerlab.org/members/matthias_niessner/profile.html) and [Prof. Eckehard Steinbach](https://www.professoren.tum.de/en/steinbach-eckehard) during my master thesis at [Visual Computing Group](https://niessnerlab.org/index.html).
 

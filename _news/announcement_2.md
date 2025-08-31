@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I start my Ph.D study today! :smile:
+I start my Ph.D study at [Bonn AIS](https://www.ais.uni-bonn.de/) group today! :smile:
 
 <!-- 
 ---
