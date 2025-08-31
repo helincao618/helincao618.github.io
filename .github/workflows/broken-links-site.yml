@@ -27,7 +27,7 @@ jobs:
           changes: |
             {
               "giscus.repo": "${{ github.repository }}",
-              "baseurl": "",
+              "baseurl": ""
             }
 
       - name: Install ImageMagick
