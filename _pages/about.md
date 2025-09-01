@@ -29,3 +29,13 @@ My research interests lie in the perception and understanding of 3D environments
 - Embodied Artificial Intelligence.
 
 I am incredibly thankful to my collaborators and mentors, and enjoy exploring new domains through collaborations. If you have questions or would like to work together, feel free to reach out through email!
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <img src="/assets/img/tum_logo.png" style="height:60px; object-fit: contain;" alt="Logo 1">
+  <img src="/assets/img/bonn_logo.png" style="height:60px; object-fit: contain;" alt="Logo 2">
+  <img src="/assets/img/valeo_logo.png" style="height:60px; object-fit: contain;" alt="Logo 3">
+  <img src="/assets/img/bmw_logo.png" style="height:60px; object-fit: contain;" alt="Logo 4">
+  <img src="/assets/img/aigrid_logo.png" style="height:60px; object-fit: contain;" alt="Logo 5">
+  <img src="/assets/img/lamarr_logo.png" style="height:60px; object-fit: contain;" alt="Logo 6">
+</div>

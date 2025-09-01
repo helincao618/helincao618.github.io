@@ -6,28 +6,14 @@
 @String(CVPR  = {CVPR})
 @String(ICCV  = {ICCV})
 @String(ECCV  = {ECCV})
-@String(ICPR  = {ICPR})
 @String(BMVC  =	{BMVC})
-@String(TOG   = {TOG})
 @String(MM = {MM})
-@String(ICME  =	{ICME})
 @String(ICASSP=	{ICASSP})
 @String(ICIP  = {ICIP})
-@String(ACCV  = {ACCV})
 @String(ICLR  = {ICLR})
-@String(IJCAI = {IJCAI})
-@String(PR = {PR})
 @String(AAAI = {AAAI})
-@String(CVPRW= {CVPRW})
-@String(DLMIA = {DLMIA})
-@String(ThreeDV = {3DV})
-@String(SIGGRAPH = {SIGGRAPH})
-@String(IJRR = {IJRR})
 @String(IROS = {IROS})
 @String(ICRA = {ICRA})
-@String(ECAI = {ECAI})
-@String(CoRL = {CoRL})
-@String(VISAPP = {VISAPP})
 @String(RAL = {RA-L})
 
 @inproceedings{cao2024slcf,
@@ -43,4 +29,43 @@
     arxiv={2403.08885},
     code={https://github.com/helincao618/SLCF-Net},
     website={https://sites.google.com/view/slcf-net/home},
+}
+
+@inproceedings{cao2025diffssc,
+    abbr={IROS},
+    bibtex_show={true},
+    title={{DiffSSC}: Semantic {LiDAR} Scan Completion using Denoising Diffusion Probabilistic Models},
+    author={Cao, Helin and Behnke, Sven},
+    booktitle={IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)},
+    year={2025},
+    abstract={Perception systems play a crucial role in autonomous driving, incorporating multiple sensors and corresponding computer vision algorithms. 3D LiDAR sensors are widely used to capture sparse point clouds of the vehicle's surroundings. However, such systems struggle to perceive occluded areas and gaps in the scene due to the sparsity of these point clouds and their lack of semantics. To address these challenges, Semantic Scene Completion (SSC) jointly predicts unobserved geometry and semantics in the scene given raw LiDAR measurements, aiming for a more complete scene representation. Building on promising results of diffusion models in image generation and super-resolution tasks, we propose their extension to SSC by implementing the noising and denoising diffusion processes in the point and semantic spaces individually. To control the generation, we employ semantic LiDAR point clouds as conditional input and design local and global regularization losses to stabilize the denoising process. We evaluate our approach on autonomous driving datasets, and it achieves state-of-the-art performance for SSC, surpassing most existing methods.},
+    preview={diffssc.gif},
+    arxiv={2409.18092},
+    website={https://sites.google.com/view/diffssc/home},
+}
+
+@inproceedings{cao2025swasop,
+    abbr={SMC},
+    bibtex_show={true},
+    title={{SWA-SOP}: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving},
+    author={Cao, Helin and Materla, Rafael and Behnke, Sven},
+    booktitle={IEEE Int. Conf. on Systems, Man, and Cybernetics (SMC)},
+    year={2025},
+    abstract={Perception systems in autonomous driving rely on sensors such as LiDAR and cameras to perceive the 3D environment. However, due to occlusions and data sparsity, these sensors often fail to capture complete information. Semantic Occupancy Prediction (SOP) addresses this challenge by inferring both occupancy and semantics of unobserved regions. Existing transformer-based SOP methods lack explicit modeling of spatial structure in attention computation, resulting in limited geometric awareness and poor performance in sparse or occluded areas. To this end, we propose Spatially-aware Window Attention (SWA), a novel mechanism that incorporates local spatial context into attention. SWA significantly improves scene completion and achieves state-of-the-art results on LiDAR-based SOP benchmarks. We further validate its generality by integrating SWA into a camera-based SOP pipeline, where it also yields consistent gains across modalities.},
+    preview={swasop.png},
+    arxiv={2506.18785},
+    website={https://sites.google.com/view/swasop/home},
+}
+
+@inproceedings{cao2025ocsop,
+    abbr={SMC},
+    bibtex_show={true},
+    title={{OC-SOP}: Enhancing {Vision-Based} 3D Semantic Occupancy Prediction by {Object-Centric} Awareness},
+    author={Cao, Helin and Behnke, Sven},
+    booktitle={IEEE Int. Conf. on Systems, Man, and Cybernetics (SMC)},
+    year={2025},
+    abstract={Autonomous driving perception faces significant challenges due to occlusions and incomplete scene data in the environment. To overcome these issues, the task of semantic occupancy prediction (SOP) is proposed, which aims to jointly infer both the geometry and semantic labels of a scene from images. However, conventional camera-based methods typically treat all categories equally and primarily rely on local features, leading to suboptimal predictions, especially for dynamic foreground objects. To address this, we propose Object-Centric SOP (OC-SOP), a framework that integrates high-level object-centric cues extracted via a detection branch into the semantic occupancy prediction pipeline. This object-centric integration significantly enhances the prediction accuracy for foreground objects and achieves state-of-the-art performance among all categories on SemanticKITTI.},
+    preview={ocsop.png},
+    arxiv={2506.18798},
+    website={https://sites.google.com/view/ocsop/home},
 }
