@@ -36,43 +36,55 @@ Our team NimbRo@Home won the RoboCup@Home Open Platform League (OPL) competition
 ## Other talks
 
 <div class="card mt-3">
-    <div class="p-3" style="padding-left: 50px; margin-top: 10px;"> 
-        <div class="row" style="margin-bottom: 20px;"> 
-            <div class="col-sm-12">
-                <h5 class="card-title">DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models</a></h5>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-9">
-                <h6 class="card-title font-italic">AI24 by LAMARR Institute | 04.-05. Sep. 2024</h6>
-            </div>
-        </div>
+  <div class="p-3" style="padding-left: 50px; margin-top: 10px;">
+    <div class="row" style="margin-bottom: 20px;">
+      <div class="col-sm-12">
+        <h5 class="card-title">
+          DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models
+        </h5>
+      </div>
     </div>
+    <div class="row">
+      <div class="col-sm-9">
+        <h6 class="card-title font-italic">AI24 by LAMARR Institute | 04.-05. Sep. 2024</h6>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="card mt-3">
-    <div class="p-3" style="padding-left: 50px; margin-top: 10px;"> 
-        <div class="row" style="margin-bottom: 20px;"> 
-            <div class="col-sm-12">
-                <h5 class="card-title"><a href="https://drive.google.com/file/d/12QAZ6C2N87i7EtRKZylG9fJbZYXEnUZD/view?usp=sharing" target="_blank" rel="noopener noreferrer">SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net</a></h5>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-9">
-                <h6 class="card-title font-italic">All Hands Meeting of the German AI Community | 07-08. Oct. 2024</h6>
-            </div>
-        </div>
+  <div class="p-3" style="padding-left: 50px; margin-top: 10px;">
+    <div class="row" style="margin-bottom: 20px;">
+      <div class="col-sm-12">
+        <h5 class="card-title">
+          <a href="https://drive.google.com/file/d/12QAZ6C2N87i7EtRKZylG9fJbZYXEnUZD/view?usp=sharing"
+             target="_blank" rel="noopener noreferrer">
+            SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net
+          </a>
+        </h5>
+      </div>
     </div>
+    <div class="row">
+      <div class="col-sm-9">
+        <h6 class="card-title font-italic">All Hands Meeting of the German AI Community | 07-08. Oct. 2024</h6>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="card mt-3">
-    <div class="p-3" style="padding-left: 50px; margin-top: 10px;"> 
-        <div class="row" style="margin-bottom: 20px;"> 
-            <div class="col-sm-12">
-                <h5 class="card-title">OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness</a></h5>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-9">
-                <h6 class="card-title font-italic">General Meeting of the Robotics Institute Germany(RIG) | 16.-17. Sep. 2025</h6>
-            </div>
-        </div>
+  <div class="p-3" style="padding-left: 50px; margin-top: 10px;">
+    <div class="row" style="margin-bottom: 20px;">
+      <div class="col-sm-12">
+        <h5 class="card-title">
+          OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness
+        </h5>
+      </div>
     </div>
+    <div class="row">
+      <div class="col-sm-9">
+        <h6 class="card-title font-italic">General Meeting of the Robotics Institute Germany (RIG) | 16.-17. Sep. 2025</h6>
+      </div>
+    </div>
+  </div>
+</div>
