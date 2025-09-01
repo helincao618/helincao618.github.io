@@ -28,29 +28,28 @@ My research interests lie in the perception and understanding of 3D environments
 - Generative model for 3D Scene;
 - Embodied Artificial Intelligence.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 20px;">
   <a href="https://www.tum.de" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/tum_logo.svg" style="height:40px; object-fit: contain;" alt="Technical University of Munich">
+    <img src="/assets/img/tum_logo.svg" style="height:40px; object-fit: contain; display:block;" alt="Technical University of Munich">
   </a>
   <a href="https://www.uni-bonn.de" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/bonn_logo.svg" style="height:40px; object-fit: contain;" alt="University of Bonn">
+    <img src="/assets/img/bonn_logo.svg" style="height:40px; object-fit: contain; display:block;" alt="University of Bonn">
   </a>
   <a href="https://www.valeo.com" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/valeo_logo.png" style="height:60px; object-fit: contain;" alt="Valeo">
+    <img src="/assets/img/valeo_logo.png" style="height:60px; object-fit: contain; display:block;" alt="Valeo">
   </a>
   <a href="https://www.bmw.com" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/bmw_logo.png" style="height:60px; object-fit: contain;" alt="BMW">
+    <img src="/assets/img/bmw_logo.png" style="height:60px; object-fit: contain; display:block;" alt="BMW">
   </a>
   <a href="https://ai-grid.org" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/aigrid_logo.png" style="height:60px; object-fit: contain;" alt="AI Grid">
+    <img src="/assets/img/aigrid_logo.png" style="height:60px; object-fit: contain; display:block;" alt="AI Grid">
   </a>
   <a href="https://lamarr-institute.org" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/lamarr_logo.png" style="height:60px; object-fit: contain;" alt="Lamarr Institute">
+    <img src="/assets/img/lamarr_logo.png" style="height:60px; object-fit: contain; display:block;" alt="Lamarr Institute">
   </a>
   <a href="https://robotics-institute-germany.de" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/rig_logo.png" style="height:60px; object-fit: contain;" alt="Robotics Institute Germany">
+    <img src="/assets/img/rig_logo.png" style="height:60px; object-fit: contain; display:block;" alt="Robotics Institute Germany">
   </a>
 </div>
-
 
 I am incredibly thankful to my collaborators and mentors, and enjoy exploring new domains through collaborations. If you have questions or would like to work together, feel free to reach out through email!
