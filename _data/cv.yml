@@ -8,14 +8,14 @@
     - name: Languages
       value: Chinese (native), English (C1), German (B2)
     - name: Email
-      value: cao@ais.uni-bonn.de
+      value: helin.henry.cao@gmail.com
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D.
       institution: University of Bonn, Bonn, Germany
-      year: 2022 - now
+      year: 2022 - Present
       description:
         - title: Geometry and Semantics Inference with Vision and LiDAR
           contents:
@@ -24,12 +24,12 @@
             - 3D Perception for Robot Manipulation and Navigation
     - title: Master of Science
       institution: Technical Univeristy of Munich (TUM), Munich, Germany
-      year: 2018 - 2021
+      year: 2018 - 2022
       description:
         - title: Electrical and Computer Engineering
           contents:
             - GPA 1.5/1.0 (Top 20%, low is good)
-            - Semantic Scene Completion for RGB-D Scans
+            - Thesis:Semantic Scene Completion for RGB-D Scans
     - title: Bachelor of Engineering
       institution: Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
       year: 2014 - 2018
@@ -60,11 +60,11 @@
   type: time_table
   contents:
     - title: Conferences
-      year: 2023 - now
+      year: 2023 - Present
       description:
         - IJCAI, ECMR, ICRA, IROS
     - title: Journals
-      year: 2023 - now
+      year: 2023 - Present
       description:
         - IEEE RA-L
 
