@@ -3,7 +3,7 @@ layout: page
 permalink: /robotic_competitions/
 title: Robotic Competitions
 order: 3
-description: 
+description:
 nav: true
 ---
 

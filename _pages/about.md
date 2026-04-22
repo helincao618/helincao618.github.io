@@ -8,14 +8,15 @@ profile:
   image: helincao.png
   #image_circular: false # crops the image to make it circular
   #more_info: >
-   # <p>0.040</p>
-    #<p>Friedrich-Hirzebruch-Allee 8</p>
-    #<p>Bonn, 53115</p>
+  # <p>0.040</p>
+  #<p>Friedrich-Hirzebruch-Allee 8</p>
+  #<p>Bonn, 53115</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 Hi There! I'm Helin Cao (in Chinese: 曹贺淋). You can also call me Henry.
 
 I am a final-year Ph.D. student in the [Center for Robotics at the University of Bonn](https://www.robotics.uni-bonn.de/) and the [Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/), with [Prof. Sven Behnke](https://www.ais.uni-bonn.de/behnke/) of [Autonomous Intelligent Systems group](https://www.ais.uni-bonn.de/). I am lucky to be a part of Team [NimbRo@Home](https://www.ais.uni-bonn.de/nimbro/@Home/), which participated in multiple international competitions.
