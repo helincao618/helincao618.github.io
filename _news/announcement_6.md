@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [DiffSSC](https://www.arxiv.org/abs/2409.18092) is accepted by [IROS 2025](https://www.iros25.org/).
+Our paper [DiffSSC](https://www.arxiv.org/abs/2409.18092) is accepted by [IROS 2025](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/).
