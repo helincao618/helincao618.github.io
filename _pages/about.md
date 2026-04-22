@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: helincao.png
-  #image_circular: false # crops the image to make it circular
+  image_circular: true # square source + rounded display
   #more_info: >
   # <p>0.040</p>
   #<p>Friedrich-Hirzebruch-Allee 8</p>
