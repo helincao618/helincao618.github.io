@@ -47,7 +47,7 @@ I recently completed my Ph.D. at the [Autonomous Intelligent Systems (AIS) group
     <img src="/assets/img/lamarr_logo.png" style="height:60px; object-fit: contain; display:block; transform: scale(1.05); transform-origin: center;" alt="Lamarr Institute">
   </a>
   <a href="https://robotics-institute-germany.de" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/rig_logo.png" style="height:60px; object-fit: contain; display:block; transform: scale(1.3); transform-origin: center;" alt="Robotics Institute Germany">
+    <img src="/assets/img/rig_logo.png" style="height:60px; object-fit: contain; display:block; transform: scale(1.1); transform-origin: center;" alt="Robotics Institute Germany">
   </a>
 </div>
 
