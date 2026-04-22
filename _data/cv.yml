@@ -59,14 +59,12 @@
 - title: Review Services
   type: time_table
   contents:
-    - title: Conferences
-      year: 2023 - Present
+    - title: Reviewer
       description:
-        - IJCAI, ECMR, ICRA, IROS
-    - title: Journals
-      year: 2023 - Present
+        - IJCAI, ECMR, ICRA, IROS, IEEE RA-L
+    - title: Session chair
       description:
-        - IEEE RA-L
+        - SMC
 
 - title: Skills
   type: map
