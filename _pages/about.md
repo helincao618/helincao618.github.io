@@ -43,7 +43,7 @@ My research interests lie in the perception and understanding of 3D environments
     <img src="/assets/img/bmw_logo.png" style="height:60px; object-fit: contain; display:block;" alt="BMW">
   </a>
   <a href="https://neura-robotics.com/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/neura_robotics_logo.svg" style="height:36px; object-fit: contain; display:block;" alt="Neura Robotics">
+    <img src="/assets/img/neura_curve_mark.svg" style="height:60px; object-fit: contain; display:block;" alt="Neura Robotics">
   </a>
   <a href="https://lamarr-institute.org" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/lamarr_logo.png" style="height:60px; object-fit: contain; display:block;" alt="Lamarr Institute">
