@@ -39,7 +39,7 @@ My research interests lie in the perception and understanding of 3D environments
   <a href="https://www.valeo.com" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/valeo_logo.png" style="height:60px; object-fit: contain; display:block;" alt="Valeo">
   </a>
-  <a href="https://www.bmwgroup.com/en.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://en.wikipedia.org/wiki/BMW" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/bmw_logo.png" style="height:60px; object-fit: contain; display:block;" alt="BMW">
   </a>
   <a href="https://lamarr-institute.org" target="_blank" rel="noopener noreferrer">
