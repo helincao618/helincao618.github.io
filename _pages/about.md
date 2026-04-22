@@ -17,17 +17,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi There! I'm Helin Cao (in Chinese: 曹贺淋). You can also call me Henry.
+Hi, I'm Helin Cao (in Chinese: 曹贺淋). I am currently a Robot Perception Expert at [Neura Robotics](https://neura-robotics.com/), where I focus on developing NeuraGym and NeuraVerse—cutting-edge ecosystems for embodied AI and large-scale robot simulation.
 
-I am a final-year Ph.D. student in the [Center for Robotics at the University of Bonn](https://www.robotics.uni-bonn.de/) and the [Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/), with [Prof. Sven Behnke](https://www.ais.uni-bonn.de/behnke/) of [Autonomous Intelligent Systems group](https://www.ais.uni-bonn.de/). I am lucky to be a part of Team [NimbRo@Home](https://www.ais.uni-bonn.de/nimbro/@Home/), which participated in multiple international competitions.
+I recently completed my Ph.D. at the [Autonomous Intelligent Systems (AIS) group](https://www.ais.uni-bonn.de/), University of Bonn, advised by [Prof. Sven Behnke](https://www.ais.uni-bonn.de/behnke/). My doctoral work centered on semantic scene understanding for mobile robots, part of which was battle-tested in international competitions with Team [NimbRo@Home](https://www.ais.uni-bonn.de/nimbro/@Home/). Previously, I earned my Master's from [TU Munich (TUM)](https://www.tum.de), working with [Prof. Matthias Niessner](https://niessnerlab.org/members/matthias_niessner/profile.html) and [Prof. Eckehard Steinbach](https://www.professoren.tum.de/en/steinbach-eckehard) on 3D visual computing at the [Visual Computing Group](https://niessnerlab.org/index.html).
 
-Before that, I spent three wonderful years during my master program at Technical University of Munich, studying Electrical and Computer Engineering. I'm honored to be advised by [Prof. Matthias Niessner](https://niessnerlab.org/members/matthias_niessner/profile.html) and [Prof. Eckehard Steinbach](https://www.professoren.tum.de/en/steinbach-eckehard) during my master thesis at [Visual Computing Group](https://niessnerlab.org/index.html).
+### Research interests
 
-My research interests lie in the perception and understanding of 3D environments for robotics. Specifically, I am interested in:
-
-- Representation Learning on Semantic Scene Completion;
-- Generative model for 3D Scene;
-- Embodied Artificial Intelligence.
+- **Physics-grounded world models:** Bridging the gap between generative AI and physical reasoning.
+- **Interactive 4D scene representations:** Scaling 3DGS/occupancy for real-time robotic manipulation.
+- **Embodied foundation models:** Native vision-language-action (VLA) alignment in simulation and reality.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 20px;">
   <a href="https://www.tum.de" target="_blank" rel="noopener noreferrer">

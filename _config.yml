@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Helin (Henry) Cao # the website title (if blank, full name will be used instead)
+title: Helin Cao # the website title (if blank, full name will be used instead)
 first_name: Helin
-middle_name: (Henry)
+middle_name: # optional middle name; leave blank when unused
 last_name: Cao
 email: tumcaohelin@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
