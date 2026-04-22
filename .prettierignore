@@ -5,6 +5,7 @@ assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
 _config.yml
+Gemfile.lock
 _data/cv.yml
 _layouts/about.liquid
 _layouts/bib.liquid
