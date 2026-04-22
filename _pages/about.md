@@ -42,9 +42,6 @@ My research interests lie in the perception and understanding of 3D environments
   <a href="https://www.bmwgroup.com/en.html" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/bmw_logo.png" style="height:60px; object-fit: contain; display:block;" alt="BMW">
   </a>
-  <a href="https://ai-grid.org" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/aigrid_logo.png" style="height:60px; object-fit: contain; display:block;" alt="AI Grid">
-  </a>
   <a href="https://lamarr-institute.org" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/lamarr_logo.png" style="height:60px; object-fit: contain; display:block;" alt="Lamarr Institute">
   </a>
